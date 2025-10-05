@@ -1,0 +1,28 @@
+[
+    {
+        "role": "Python Intern",
+        "company": "Zeetron Networks Pvt. Ltd.",
+        "logo": "https://www.zeetronnetworks.com/images/logo.png",
+        "date": "07/08/2023 - 23/08/2023",
+        "skills": [
+            "Python Language",
+            "Anaconda",
+            "Jyupter"
+            
+        ]
+    },
+    {
+        "role": "MERN Stack Developer",
+        "company": "iKaizen Technocraft Pvt. Ltd.",
+        "logo": "https://media.licdn.com/dms/image/v2/D4E03AQFPV8Z-iGjSvQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1690801121170?e=1755734400&v=beta&t=FmCBksjmKk0xoZDiw7W3dg-zLs4RoO5dE9KiTF6dz_A",
+        "date": " 08-07-2024  - 21-08-2024 ",
+        "skills": [
+            "MongoDB",
+            "React.js",
+            "REST API",
+            "Node.js",
+            "Express.js"
+        ]
+    }
+    
+]
